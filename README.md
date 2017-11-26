@@ -1,7 +1,7 @@
-# surface_waves
+# surface waves
 code used to analyze surface waves from movies of colloidal fluids
 
-## Run ``analyze_boundary.py`` with path to directory holding frames of movie
+### Run ``analyze_boundary.py`` with path to directory holding frames of movie
 
 `analyze_boundary.py /path/to/directory`
 
@@ -13,5 +13,5 @@ Optional parameters:
 
 - `extension`: File extension of images. Defaults to ``jpg``.
 
-## To run with these parameters:
+### To run with these parameters:
 `analyze_boundary.py /path/to/directory —-start startframe —end endframe —extension ext
