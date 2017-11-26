@@ -14,4 +14,4 @@ Optional parameters:
 - `extension`: File extension of images. Defaults to ``jpg``.
 
 ### To run with these parameters:
-`analyze_boundary.py /path/to/directory —-start startframe —end endframe —extension ext
+`analyze_boundary.py /path/to/directory --start startframe --end endframe --extension ext`
