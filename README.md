@@ -7,11 +7,11 @@ code used to analyze surface waves from movies of colloidal fluids
 
 Optional parameters:
 
--`start` : First frame to analyze. Defaults to first frame. Accepts ```int```.
+- `start` : First frame to analyze. Defaults to first frame. Accepts ```int```.
 
-`end`: Last frame to analyze. Defaults to last frame. Accepts ```int```.
+- `end`: Last frame to analyze. Defaults to last frame. Accepts ```int```.
 
--`extension`: File extension of images. Defaults to ``jpg``.
+- `extension`: File extension of images. Defaults to ``jpg``.
 
 ## To run with these parameters:
 `analyze_boundary.py /path/to/directory —-start startframe —end endframe —extension ext
