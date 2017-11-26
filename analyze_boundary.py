@@ -220,6 +220,6 @@ if __name__ == '__main__':
         yd = [np.min(np.abs(y[xi[0]] - meany)) for xi in xind]
         yn = np.interp(xn, xd, np.abs(yd - meany))
         h.append(yn)
-        # np.save(moviepath + '/h_analysis/height.npy', h)
+        np.save(moviepath + '/h_analysis/height.npy', h)
         
     dispersion(h, T1=1, T2=.5)
