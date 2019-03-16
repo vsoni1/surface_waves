@@ -1,4 +1,7 @@
 # surface waves
+
+<img src="height.gif" width="500"/>   
+
 Code used to analyze surface waves from movies of colloidal fluids.
 
 ### Run ``analyze_boundary.py`` with path to directory holding frames of movie
@@ -15,5 +18,3 @@ Optional parameters:
 
 ### To run with these parameters:
 `analyze_boundary.py /path/to/directory --start startframe --end endframe --extension ext`
-
-<img src="height.gif" width="500"/>   
