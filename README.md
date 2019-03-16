@@ -1,7 +1,5 @@
 # surface waves
 Code used to analyze surface waves from movies of colloidal fluids.
-A new subdirectory will be created called "h_analysis" under the input directory.
-Data will be stored here.
 
 ### Run ``analyze_boundary.py`` with path to directory holding frames of movie
 
