@@ -7,9 +7,6 @@ Data will be stored here.
 
 `analyze_boundary.py /path/to/directory`
 
-A new directory under the input directory will be created with the name "h_analysis". 
-Data will be stored here
-
 Optional parameters:
 
 - `start` : First frame to analyze. Defaults to first frame. Accepts ```int```.
