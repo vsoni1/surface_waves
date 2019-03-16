@@ -21,4 +21,4 @@ Optional parameters:
 ### To run with these parameters:
 `analyze_boundary.py /path/to/directory --start startframe --end endframe --extension ext`
 
-<img src="height.gif" width="200"/>   
+<img src="height.gif" width="500"/>   
